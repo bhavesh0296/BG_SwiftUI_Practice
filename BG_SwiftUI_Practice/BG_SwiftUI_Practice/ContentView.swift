@@ -35,7 +35,7 @@ struct ContentView: View {
 //
 //        }
 
-//        CountryListView()
+        CountryListView()
 
 //        SettingView()
 
@@ -44,10 +44,25 @@ struct ContentView: View {
 //        TabViewDemo()
 //        FromConferenceView()
 //        DividerDemo()
-        EmailViewPropertyWrapperDemo()
-
+//        EmailViewPropertyWrapperDemo()
+//        AlertDemo()
+//        SheetDemo()
+//        SearchEngineView()
+//        SearchEngineTabView()
+//        UsingEnvironmentalkey()
+//        WebViewDemo()
+//        ActivityIndicatorDemo()
+//        ImagePickerDemo()
         
+//        CustomShapeView()
+//        BlendDemo()
+//        ButtonZoom()
+//        WheelAnimationDemo()
+
+//        CustomIndicatorView()
+//        TitleModifierDemo()
     }
+
 }
 
 struct ContentView_Previews: PreviewProvider {
